@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md bg-black p-3 fs-5">
   <div class="container-fluid">
-    <a href="{{ .Site.Home.RelPermalink }}" class="navbar-brand">
+    <a href="{{ .Site.Home.RelPermalink }}" class="navbar-brand link-body-emphasis">
       {{ with .Site.Params.site_logo }}
       <img src="{{ relURL . }}" alt="{{ $.Site.Title }}" width="64" class="mx-2" />
       {{ end }}
