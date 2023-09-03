@@ -13,6 +13,10 @@ h2 {
   margin-bottom: 2.5rem;
 }
 
+.container {
+  max-width: 960px;
+}
+
 .youtube-embed {
   position: relative;
   padding-bottom: 56.25%;
