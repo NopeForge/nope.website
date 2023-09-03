@@ -1,5 +1,4 @@
 {{ $name := (.Get "data") }}
-{{ $img_class := (.Get "img_class") }}
 {{ $data := index .Site.Data $name }}
 <div class="justify-content-center">
   {{ range $i, $p := $data }}
@@ -10,7 +9,7 @@
         <p class="lead">{{ .desc | markdownify }}</p>
       </div>
       <div class="col-md-5 order-md-{{ sub 3 $m }}">
-        {{ with .img }}<img src="/img/{{ $name }}/{{ . }}" class="img-fluid mx-auto{{ with $img_class }} {{ . }}{{ end }}"
+        {{ with .img }}<img src="/img/{{ $name }}/{{ . }}" class="img-fluid mx-auto"
           alt="">{{ end }}
       </div>
     </div>
