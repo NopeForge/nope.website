@@ -1,5 +1,5 @@
 - title: Node based
-  img: graph-small.png
+  img: graph.png
   desc: Scales well with large graphs.
 - title: Python bindings
   img: python-logo-only.png
