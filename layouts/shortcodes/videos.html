@@ -1,7 +1,9 @@
 {{ $name := (.Get 0) }}
 {{ $data := index .Site.Data $name }}
+<div class="row">
 {{ range $data }}
-<div class="youtube-embed">
+<div class="col-lg-4 text-center">
   <iframe src="https://youtube.com//embed/{{ . }}?autoplay=1&mute=1&loop=1&playlist={{ . }}&controls=0" allowfullscreen></iframe>
 </div>
 {{ end }}
+</div>
