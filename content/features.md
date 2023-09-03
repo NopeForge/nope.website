@@ -4,4 +4,4 @@ menu: "main"
 weight: 5
 ---
 
-{{< cards data="features" >}}
+{{< features data="features" >}}
