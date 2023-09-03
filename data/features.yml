@@ -1,18 +1,34 @@
 - title: Node based
   img: graph.png
-  desc: Scales well with large graphs.
+  desc: >
+    Building a scene means building a graph for the rendering engine. The
+    declarative nature of a graph gives the ability to structure large scale
+    scenes visually, and resources within can intuitively be shared. The graphs
+    are platform agnostic, and with the help of serialization can be transmitted
+    easily for re-use elsewhere.
 - title: Python bindings
   img: python-logo-only.png
-  desc: Complete Python binding for building scenes.
-- title: Text effects
+  desc: >
+    The complete Python binding makes it very accessible for beginners to tweak
+    or build their own scenes programmatically.
+- title: Advanced text effects
   img: texteffects.gif
-  desc: Support for advanced text effects such as blurring or glowing.
+  desc: >
+     Support for advanced text effects such as transform, outline, blur or
+     glow. Text effects can target words or characters by simply changing
+     a single parameter. These effects are compatible with text-shaping and
+     bi-directionnal text (as found in languages such as arabic), as well as
+     vertically layed out text.
 - title: Animations
   img: anim.gif
-  desc: All commonly known easings supported for animating anything.
+  desc: >
+     All commonly known easings supported for animating anything: positions,
+     colors, or abitrary data.
 - title: Cross platform
   img: devices.jpg
-  desc: Runs on all major platforms, including mobile (iOS and Android).
+  desc: >
+     Runs on all major platforms (Linux, macOS, Windows), as well as mobile (iOS
+     and Android).
 - title: Multi backends
   img: gfx-backends.png
   desc: OpenGL, OpenGLES, Vulkan and Metal (through MoltenVK) are supported.
