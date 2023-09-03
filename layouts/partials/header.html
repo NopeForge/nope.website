@@ -2,9 +2,9 @@
   <div class="container-fluid">
     <a href="{{ .Site.Home.RelPermalink }}" class="navbar-brand">
       {{ with .Site.Params.site_logo }}
-      <img src="{{ relURL . }}" alt="{{ $.Site.Title }}" width="96" />
+      <img src="{{ relURL . }}" alt="{{ $.Site.Title }}" width="64" class="mx-2" />
       {{ end }}
-      <span class="fs-2">{{ .Site.Title }}</span>
+      <span class="fw-bolder">{{ .Site.Title }}</span>
     </a>
     {{ if .Site.Menus.main }}
     <ul class="navbar-nav">
