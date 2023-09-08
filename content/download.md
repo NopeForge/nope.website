@@ -13,4 +13,3 @@ constructed through a Python script (or module). Builds for all major platforms
 can be grabbed on [GitHub].
 
 [github]: {{< param github >}}/nope.gl/releases/
-[doc-install]: {{< param github >}}/nope.gl/blob/main/doc/usr/howto/installation.md
