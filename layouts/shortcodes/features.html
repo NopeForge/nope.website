@@ -5,7 +5,7 @@
     {{ $m := (add (mod $i 2) 1) }}
     <div class="row align-items-center">
       <div class="col-md-7 order-md-{{ $m }}">
-        <h2 class="feature-heading fw-normal lh-1">{{.title}}</h2>
+        <h2 class="feature-heading fw-normal text-center lh-1">{{.title}}</h2>
         <p class="lead">{{ .desc | markdownify }}</p>
       </div>
       <div class="col-md-5 order-md-{{ sub 3 $m }} text-center">
