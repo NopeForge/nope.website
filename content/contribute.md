@@ -21,8 +21,8 @@ interact with us there.
 If you are a developer willing to contribute, it is encouraged to [get in
 touch][contact] with us before doing any significant development work to avoid
 any late rejection or simply duplicated effort. That being said, the development
-happens on [GitHub]({{< param github >}}), where you will find useful resources
-such as the [Developer guidelines][dev-guidelines].
+happens on [GitHub]({{< param github >}}), and a [developer documentation][dev-doc]
+is available.
 
 [contact]: {{< ref "/contact" >}}
-[dev-guidelines]: {{< param github >}}/nope.gl/blob/main/doc/dev/ref/developers.md
+[dev-doc]: {{< param doc >}}/dev
