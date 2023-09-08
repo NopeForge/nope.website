@@ -3,7 +3,7 @@
 <div class="justify-content-center">
   {{ range $i, $p := $data }}
     {{ $m := (add (mod $i 2) 1) }}
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-md-7 order-md-{{ $m }}">
         <h2 class="feature-heading fw-normal lh-1">{{.title}}</h2>
         <p class="lead">{{ .desc | markdownify }}</p>
