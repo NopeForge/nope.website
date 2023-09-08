@@ -8,7 +8,7 @@
         <h2 class="feature-heading fw-normal lh-1">{{.title}}</h2>
         <p class="lead">{{ .desc | markdownify }}</p>
       </div>
-      <div class="col-md-5 order-md-{{ sub 3 $m }}">
+      <div class="col-md-5 order-md-{{ sub 3 $m }} text-center">
         {{ with .img }}<img src="/img/{{ $name }}/{{ . }}" class="img-fluid mx-auto"
           alt="">{{ end }}
       </div>
