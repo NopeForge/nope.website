@@ -1,6 +1,8 @@
-<div class="videograph d-flex justify-content-center m-5">
-  <video loop muted autoplay>
-    <source src="{{ .Get "mp4" }}" type="video/mp4">
-  </video>
-  <img src="{{ .Get "graph" }}" alt="">
+<div class="nope-videograph m-5">
+  <div class="nope-tab-on nope-tab-preview"><video loop muted autoplay><source src="{{ .Get "mp4" }}" type="video/mp4"></video></div>
+  <div class="nope-tab-off nope-tab-graph"><img src="{{ .Get "graph" }}" alt=""></div>
+  <div class="nope-tabs-bar">
+    <div class="nope-btn-on nope-btn-preview" onclick="nope_show_tab(this.parentNode, 'preview')">Preview</div>
+    <div class="nope-btn-off nope-btn-graph" onclick="nope_show_tab(this.parentNode, 'graph')">Graph</div>
+  </div>
 </div>
