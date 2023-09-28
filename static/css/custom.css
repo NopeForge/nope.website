@@ -20,3 +20,8 @@ h2 {
 .feature-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
+
+div.nope-video iframe {
+  width: 640px;
+  height: 480px;
+}
