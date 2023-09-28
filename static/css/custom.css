@@ -25,3 +25,9 @@ div.nope-video iframe {
   width: 640px;
   height: 480px;
 }
+
+img[src$="#centered"] {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
