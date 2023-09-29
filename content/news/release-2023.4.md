@@ -8,7 +8,7 @@ It's been only a month since the launch, but we already have a number of new
 features we would like to show off.
 
 The key feature of this release is probably the addition of the **fractal
-noise**, the corner stone of any serious CGI work.
+noise**, the cornerstone of any serious CGI work.
 
 {{< video gaVoxfoy2CY >}}
 
