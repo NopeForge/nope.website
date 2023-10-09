@@ -1,6 +1,6 @@
 # README
 
-This is the repository for the website https://www.nope-foundry.org.
+This is the repository for the website https://www.nopeforge.org.
 
 ## Technical summary
 

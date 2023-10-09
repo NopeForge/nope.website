@@ -3,7 +3,7 @@ title: "Launch"
 date: 2023-09-01T22:45:31+02:00
 ---
 
-We are officialy launching the Nope Foundry project today!
+We are officialy launching the Nope Forge project today!
 
 We aim to provide a free and open source cross-platform framework for motion
 design, 2D composition and visual effects.

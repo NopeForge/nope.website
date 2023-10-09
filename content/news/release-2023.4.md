@@ -3,7 +3,7 @@ title: "Release 2023.4"
 date: 2023-09-28T23:25:21+02:00
 ---
 
-We're pleased to announce a [new release of the Nope Foundry project][release].
+We're pleased to announce a [new release of the Nope Forge project][release].
 It's been only a month since the launch, but we already have a number of new
 features we would like to show off.
 

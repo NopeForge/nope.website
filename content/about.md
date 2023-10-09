@@ -4,7 +4,7 @@ menu: "main"
 weight: 40
 ---
 
-The Nope Foundry project is current developped and maintained by [Clément
+The Nope Forge project is current developped and maintained by [Clément
 Bœsch][cboesch] and [Matthieu Bouron][mbouron]. Both of them have a long experience
 with multimedia: former FFmpeg developers, they worked in the broadcasting
 industry, general consumer video production and graphics technologies.

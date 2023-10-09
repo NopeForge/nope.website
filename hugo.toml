@@ -1,19 +1,19 @@
-baseURL = 'https://www.nope-foundry.org/'
+baseURL = 'https://www.nopeforge.org/'
 languageCode = 'en-us'
-title = 'Nope Foundry'
+title = 'Nope Forge'
 
 [params]
   discord = "https://discord.gg/Ssg64PRJBE"
-  github = "https://github.com/NopeFoundry"
-  doc = "https://nopefoundry.github.io/nope.gl"
-  email = "contact@nope-foundry.org"
+  github = "https://github.com/NopeForge"
+  doc = "https://nopeforge.github.io/nope.gl"
+  email = "contact@nopeforge.org"
 
   site_logo = '/img/logo.png'
   socials = [
-    { name = "GitHub",   url = "https://github.com/NopeFoundry" },
-    { name = "Mastodon", url = "https://fosstodon.org/@NopeFoundry" },
-    { name = "Twitter",  url = "https://twitter.com/NopeFoundry" },
-    { name = "YouTube",  url = "https://www.youtube.com/@NopeFoundry" },
+    { name = "GitHub",   url = "https://github.com/NopeForge" },
+    { name = "Mastodon", url = "https://fosstodon.org/@NopeForge" },
+    { name = "Twitter",  url = "https://twitter.com/NopeForge" },
+    { name = "YouTube",  url = "https://www.youtube.com/@NopeForge" },
     { name = "Discord",  url = "https://discord.gg/Ssg64PRJBE" },
     { name = "RSS",      url = "/news/index.xml" },
   ]
