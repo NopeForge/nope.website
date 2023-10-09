@@ -51,11 +51,15 @@ compositing, animations, video playback, color management, and was notably
 entirely redesigned to support more modern graphics backends.
 
 Around the end of 2022 and beginning of 2023, Matthieu and Clément left the
-GoPro company and decided to maintain the project under a new name: the **Nope
-Foundry**. `sxplayer` and `node.gl` were respectively renamed to `nope.media`
+GoPro company and decided to maintain the project under a new name: the *Nope
+Foundry*. `sxplayer` and `node.gl` were respectively renamed to `nope.media`
 and `nope.gl`. The direction of the project then took a new turn, focusing on
 providing a free and open-source framework for motion design, 2D composition
 and visual effects.
+
+Soon after the launch, the Foundry company pressured us into renaming the
+project to "avoid confusing users", so the project was renamed to **Nope
+Forge**.
 
 [OSG]: https://www.openscenegraph.com "Open Scene Graph"
 [GoPro]: https://gopro.com "GoPro"
