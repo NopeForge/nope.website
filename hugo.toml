@@ -5,7 +5,7 @@ title = 'Nope Forge'
 [params]
   discord = "https://discord.gg/Ssg64PRJBE"
   github = "https://github.com/NopeForge"
-  doc = "https://nopeforge.github.io/nope.gl"
+  doc = "https://doc.nopeforge.org"
   email = "contact@nopeforge.org"
 
   site_logo = '/img/logo.png'
