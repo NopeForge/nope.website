@@ -7,6 +7,8 @@ title = 'Nope Forge'
   github = "https://github.com/NopeForge"
   doc = "https://doc.nopeforge.org"
   email = "contact@nopeforge.org"
+  liberapay = "https://liberapay.com/NopeForge"
+  kofi = "https://ko-fi.com/nopeforge"
 
   site_logo = '/img/logo.png'
   socials = [

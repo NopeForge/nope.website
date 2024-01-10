@@ -7,8 +7,13 @@ weight: 20
 ## 💰 Financial support
 
 The simplest and most favored way to help the project is to **contribute
-financially**. We are currently working out the details; means to donate will
-soon be announced.
+financially** by making a donation through one of these services:
+
+- [Liberapay]({{< param liberapay >}})
+- [Ko-fi]({{< param kofi >}})
+
+Supporting us financially is essential to the project, so we're extremely
+grateful to anyone that can make a donation.
 
 ## 🩷 Visibility
 
