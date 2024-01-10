@@ -65,6 +65,10 @@ In November 2023, GoPro decided to close the public access to their source code
 repository. This means that the Nope Forge project is now the main public proof
 of the history of the project.
 
+During that same month, the Nope Forge company was created to back up the
+project. Consulting services and donations were officially opened as means to
+financially support the project.
+
 [OSG]: https://www.openscenegraph.com "Open Scene Graph"
 [GoPro]: https://gopro.com "GoPro"
 
