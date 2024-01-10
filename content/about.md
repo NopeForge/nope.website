@@ -61,6 +61,10 @@ Soon after the launch, the Foundry company pressured us into renaming the
 project to "avoid confusing users", so the project was renamed to **Nope
 Forge**.
 
+In November 2023, GoPro decided to close the public access to their source code
+repository. This means that the Nope Forge project is now the main public proof
+of the history of the project.
+
 [OSG]: https://www.openscenegraph.com "Open Scene Graph"
 [GoPro]: https://gopro.com "GoPro"
 
