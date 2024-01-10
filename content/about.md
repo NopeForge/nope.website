@@ -71,5 +71,3 @@ financially support the project.
 
 [OSG]: https://www.openscenegraph.com "Open Scene Graph"
 [GoPro]: https://gopro.com "GoPro"
-
-
